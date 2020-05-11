@@ -6,4 +6,4 @@ Instructions:
 3. Run dotnet run.
 
 
-Make sure you have mongoDB.
+Make sure you have mongoDB and npm installed.
