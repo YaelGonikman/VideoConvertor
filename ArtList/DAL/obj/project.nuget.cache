@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wWHTSCbE/dk7Cr6H6tgAydKFEeGixAZ71fijsY15ppddBVlf15Hfg4InwpoGGeBgmchR6KvKWNb1WcqFL9ppFQ==",
+  "dgSpecHash": "fJz2AZC/L1DiyMnU3TkKoHrkgvcwyeaPmbjG7t5nGdePF+Gxw0OXEZc8f0ZHng0e9UZC/bP2X6VmwMcIBuqykg==",
   "success": true,
-  "projectFilePath": "C:\\Yael\\ראיונות\\ArtList\\Server\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Yael\\ראיונות\\ArtList\\VideoConvertor\\ArtList\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yaelg\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\yaelg\\.nuget\\packages\\mediatoolkit\\1.1.0.1\\mediatoolkit.1.1.0.1.nupkg.sha512",

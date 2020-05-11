@@ -7,3 +7,12 @@ C:\Yael\ראיונות\ArtList\Server\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
 C:\Yael\ראיונות\ArtList\Server\DAL\obj\Debug\netcoreapp3.1\DAL.dll
 C:\Yael\ראיונות\ArtList\Server\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
 C:\Yael\ראיונות\ArtList\Server\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\DAL\obj\Debug\netcoreapp3.1\DAL.pdb

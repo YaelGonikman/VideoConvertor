@@ -6471,11 +6471,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Yael\\ראיונות\\ArtList\\Server\\BL\\BL.csproj",
+      "projectUniqueName": "C:\\Yael\\ראיונות\\ArtList\\VideoConvertor\\ArtList\\BL\\BL.csproj",
       "projectName": "BL",
-      "projectPath": "C:\\Yael\\ראיונות\\ArtList\\Server\\BL\\BL.csproj",
+      "projectPath": "C:\\Yael\\ראיונות\\ArtList\\VideoConvertor\\ArtList\\BL\\BL.csproj",
       "packagesPath": "C:\\Users\\yaelg\\.nuget\\packages\\",
-      "outputPath": "C:\\Yael\\ראיונות\\ArtList\\Server\\BL\\obj\\",
+      "outputPath": "C:\\Yael\\ראיונות\\ArtList\\VideoConvertor\\ArtList\\BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yaelg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6491,8 +6491,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Yael\\ראיונות\\ArtList\\Server\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Yael\\ראיונות\\ArtList\\Server\\DAL\\DAL.csproj"
+            "C:\\Yael\\ראיונות\\ArtList\\VideoConvertor\\ArtList\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Yael\\ראיונות\\ArtList\\VideoConvertor\\ArtList\\DAL\\DAL.csproj"
             }
           }
         }

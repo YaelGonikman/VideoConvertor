@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5sG52rlY1hevBR21fFq6GQs1lw6usbKvsTSx6loKcV+ou1brzoBw6hvscdPEZ8EBecjl1E+w1gmhDjLGhUaekw==",
+  "dgSpecHash": "wRYv2IA1W4GHcCA6UIavwc/Hkoc67cIQ6mwPUzaleoOLJYbt6ZG6hAi3uScj9zJSLbKeVfKk5no646g8YiOXZw==",
   "success": true,
-  "projectFilePath": "C:\\Yael\\ראיונות\\ArtList\\Server\\BL\\BL.csproj",
+  "projectFilePath": "C:\\Yael\\ראיונות\\ArtList\\VideoConvertor\\ArtList\\BL\\BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yaelg\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\yaelg\\.nuget\\packages\\mediatoolkit\\1.1.0.1\\mediatoolkit.1.1.0.1.nupkg.sha512",

@@ -1,0 +1,12 @@
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\BL\bin\Release\netcoreapp3.1\BL.deps.json
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\BL\bin\Release\netcoreapp3.1\BL.dll
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\BL\bin\Release\netcoreapp3.1\BL.pdb
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\BL\bin\Release\netcoreapp3.1\DAL.dll
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\BL\bin\Release\netcoreapp3.1\DAL.pdb
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\BL\obj\Release\netcoreapp3.1\BL.csprojAssemblyReference.cache
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\BL\obj\Release\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\BL\obj\Release\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\BL\obj\Release\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\BL\obj\Release\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\BL\obj\Release\netcoreapp3.1\BL.dll
+C:\Yael\ראיונות\ArtList\VideoConvertor\ArtList\BL\obj\Release\netcoreapp3.1\BL.pdb
