@@ -1,5 +1,5 @@
 
-import React, { useState } from 'react';
+import React from 'react';
 import '../Main/Main.css'
 import ChooseFile from '../ChooseFile/ChooseFile';
 import CreateFile from '../CreateFile/CreateFile';

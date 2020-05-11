@@ -18,7 +18,7 @@ export const createFile = (file, name, type) => dispatch => {
   formData.append("file", file);
   formData.append("name", name);
   formData.append("type", type);
-  console.log(formData)
+
   axios.post('api/Video/createFile', formData, {
     headers: {
       "Content-Type": "application/json"

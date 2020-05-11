@@ -1,9 +1,6 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
-import PropTypes from 'prop-types';
-import { connect } from 'react-redux';
-import { withRouter } from 'react-router-dom';
-import { IconButton, Typography } from '@material-ui/core';
+import { Typography } from '@material-ui/core';
 
 const fontStyle = {
     color: '#eceff1',
@@ -19,12 +16,4 @@ function Navbar (props){
             </nav>
         )
     }
-
-Navbar.propTypes = {
-    
-}
-
-const mapStateToProps = (state) => ({
-})
-
-export default connect(mapStateToProps)(withRouter(Navbar));
+export default Navbar;
