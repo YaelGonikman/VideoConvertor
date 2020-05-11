@@ -1,0 +1,9 @@
+
+.divStyleMain{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    margin-top: 10%;
+}

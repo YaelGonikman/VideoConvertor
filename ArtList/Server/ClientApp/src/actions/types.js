@@ -1,0 +1,3 @@
+export const CHOOSE_FILE = 'CHOOSE_FILE';
+export const CREATE_FILE="CREATE_FILE";
+export const FILE_CREATED="FILE_CREATED";

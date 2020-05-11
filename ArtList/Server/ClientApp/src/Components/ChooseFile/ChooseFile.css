@@ -1,0 +1,18 @@
+input[type="file"] {
+    display: none;
+}
+.choose-file {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+.div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    margin-top: 10%;
+}
